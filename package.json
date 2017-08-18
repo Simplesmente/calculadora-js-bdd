@@ -1,0 +1,32 @@
+{
+  "name": "calculadora-js-bdd",
+  "version": "1.0.0",
+  "description": "Curso testes unitários com jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test-jasmine": "node_modules/.bin/jasmine",
+    "test-dev": "node_modules/.bin/karma start",
+    "test": "node_modules/.bin/karma start --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simplesmente/calculadora-js-bdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simplesmente/calculadora-js-bdd/issues"
+  },
+  "homepage": "https://github.com/Simplesmente/calculadora-js-bdd#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browserify": "^14.4.0",
+    "jasmine": "^2.7.0",
+    "karma": "^1.7.0",
+    "karma-browserify": "^5.1.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0",
+    "watchify": "^3.9.0"
+  }
+}

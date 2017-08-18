@@ -1,0 +1,11 @@
+Funcionalidade adicao
+    - Testar uma soma com valores em formatos texto
+    - estar uma soma com valores decimais       
+    - Testar uma validação do primeiro número    
+    - Testar validação do segundo número     
+
+Funcionalidade subtracao
+    - Testar uma subtracao
+    - Testar uma subtracao com valores em formatos texto     
+    - Testar uma validação do primeiro número    
+    - Testar validação do segundo número     
