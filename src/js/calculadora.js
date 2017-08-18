@@ -20,7 +20,15 @@ var Calculadora = {
     },
 
     dividir: function(n1,n2) {
-        return 0;
+        if(n2 == 0) {
+            return 'Erro';
+        } 
+
+        if(isNaN(n1) ||isNaN(n1) ){
+            return 0;
+        }
+
+        return n1 / n2;
     },
 
     multiplicar: function(n1,n2) {
