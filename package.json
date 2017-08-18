@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Simplesmente/calculadora-js-bdd#readme",
   "devDependencies": {
+    "bootstrap": "^3.3.7",
     "browserify": "^14.4.0",
     "jasmine": "^2.7.0",
     "karma": "^1.7.0",
